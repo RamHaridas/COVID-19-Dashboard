@@ -6,7 +6,7 @@
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="map_key" translatable="false"> AIzaSyD7rTaH-BumwCWlEK1twjHSab9R48A8-w8 </string>
+    <string name="map_key" translatable="false"> Your key here </string>
     <string name="home_second">Home Second</string>
     <string name="title_activity_main">MainACT</string>
     <string name="app_name2">BeSafe</string>
