@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">COVID-19 Tracker</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="map_key" translatable="false"> AIzaSyD7rTaH-BumwCWlEK1twjHSab9R48A8-w8 </string>
+    <string name="home_second">Home Second</string>
+    <string name="title_activity_main">MainACT</string>
+    <string name="app_name2">BeSafe</string>
+    <string name="emailid">Enter Email</string>
+    <string name="userpassword">Enter Password</string>
+    <string name="login_text">Login</string>
+    <string name="or_text">Or</string>
+    <string name="FirstName">Enter First Name</string>
+    <string name="LastName">Enter Last Name</string>
+    <string name="PhoneNumber">Enter Phone Number</string>
+    <string name="EnterPassoword">Enter Password</string>
+    <string name="ConfirmPassword">Confirm Password</string>
+    <string name="SignUp">SIGN UP</string>
+    <string name="LoginWord">LOGIN</string>
+    <string name="Key">Enter Key</string>
+    <string name="signUp">SIGN UP AS </string>
+    <string name="i_am">I am</string>
+    <string name="KEY">Enter Admin Key</string>
+    <string name="male">male</string>
+    <string name="female">female</string>
+    <string name="registration">Registration</string>
+</resources>
